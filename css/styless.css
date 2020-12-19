@@ -1,0 +1,98 @@
+body
+{
+    background-image: url("https://www.legalgeek.co/wp-content/uploads/2017/04/Code-e1493037111360.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: blue;
+}
+a:link
+{
+    text-decoration: none;
+}
+
+input
+{
+    
+    width: 20%;
+    padding: 10px;
+    border-radius: 8px;
+    margin-left: 10%;
+    margin-top: 8px;
+    
+}
+label{
+    width: 240px;
+    display: inline-block;
+}
+button
+{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    margin-top: 50px;
+    border: 2px solid white;
+
+    cursor: pointer;
+    
+  border-radius: 5px;
+}
+button:hover
+{
+    opacity: 0.5;
+}
+#Homepage
+{
+    margin-top: 5px;
+    background-color: #4CAF50;
+}
+h1,h2
+{
+    margin-top: 30px;
+    padding: 10px;
+    line-height: 2;
+    font-size: 3rem;
+    margin-left: 40px;
+    display: inline;
+    color: white;
+    margin-top: 20%;
+}
+p{
+
+    padding: 20px;
+    font-size: 1.8rem;
+    color: white;
+    display: inline;
+    margin-top: 30px;
+    vertical-align: top;
+    
+}
+.first
+{
+    margin-left: 30%;
+}
+
+
+.htmlLogo
+{
+    
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+
+
+}
+
+.firstlogo
+{
+    margin-left: 10%;
+}
+
+form
+{
+    margin-left: 50px;
+}
+

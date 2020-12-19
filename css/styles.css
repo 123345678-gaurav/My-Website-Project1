@@ -1,0 +1,163 @@
+body
+{
+ margin: 0px;
+}
+.icon
+{
+  height: 32px;
+  width: 32px;
+  padding-top: 5px;
+
+}
+button
+{
+  
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 45%;
+  margin-top: 30px;
+  border-radius: 5px;
+}
+a:hover
+{
+  opacity: 0.5;
+}
+button:hover
+{
+  opacity: 0.5;
+}
+footer
+{
+  margin-top: 5%;
+  margin-bottom: 5%;
+  text-align: center;
+  color: gray;
+  font-family: 'Andika New Basic', sans-serif;
+  font-size: 1.3rem;
+}
+
+.copy
+{
+  height: 19px;
+  width: 19px;
+}
+
+.heading
+{
+  margin: 0px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 43px;
+}
+
+
+.profile-image
+{
+  height: 180px;
+  padding: 20px;
+  border-radius: 100%;
+
+}
+
+
+.profile
+{
+  background-color: #ffe2e2;
+  text-align: center;
+
+}
+
+
+.job-image
+{
+  padding: 20px;
+  border-radius: 100%;
+}
+
+.gourav
+{
+
+  margin: 0;
+  padding: 15px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 45px;
+}
+
+.below-heading
+{
+  font-family: 'Syne Tactile', cursive;
+  font-size: 20px;
+}
+
+
+.profile-brief
+{
+  margin: 0px;
+  padding: 20px;
+  font-size: 30px;
+  margin: 0px 30% 0 30% ;
+}
+
+.myjob
+{
+  margin: 0px;
+  top: 0px;
+  padding: 30px;
+  padding-bottom: 5px;
+}
+
+
+.paragraph
+{
+  text-align: center;
+  margin: 0 20% 0 20%;
+  font-family: 'Barlow Condensed', sans-serif;
+  padding: 30px;
+}
+
+
+.first-container
+{
+    text-align: center;
+    background-color: #ff8e71;
+}
+
+
+.second-container
+{
+  margin: 0px;
+  background-color :#fa9579;
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+  font-size: 26px;
+}
+
+
+.topcloud
+{
+  position: absolute;
+  right: 300px;
+  top: 80px;
+
+}
+
+
+.bottomcloud
+{
+  position: absolute;
+  left: 300px;
+}
+
+
+.mountain
+{
+  
+  padding: 50px;
+}
